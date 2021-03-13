@@ -2,7 +2,9 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../:\StudyGit\2021_03_13_StudyGit\.idea/dataSources/
+
+/dataSources/
+
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
